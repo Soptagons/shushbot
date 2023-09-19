@@ -2,7 +2,7 @@ import type { Client } from 'discord.js';
 import { SlashCommandBuilder } from '@discordjs/builders';
 
 export async function registerCommands(client: Client) {
-  const guild = client.guilds.cache.get('1091835076226064545');
+  const guild = client.guilds.cache.get('your server id here');
   if (!guild) return;
 
   const commands = [
