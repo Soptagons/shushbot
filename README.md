@@ -1,12 +1,11 @@
-# 👂 Recorder Bot
+# 👂 ShushBot
 
-This example shows how you can use the voice receive functionality in @discordjs/voice to record users in voice channels
-and save the audio to local Ogg files.
+SSSSSHHHHHHHHHHH
 
 ## Usage
 
 ```sh-session
-# Clone the examples repository, copy the `recorder` files in a folder and then run:
+# Clone the epository. Then run:
 $ npm install
 $ npm run build
 
